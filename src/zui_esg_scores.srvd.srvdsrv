@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for ESG Scores'
+define service ZUI_ESG_SCORES {
+  expose ZI_ESG_SCORES as EsgScores;
+}
